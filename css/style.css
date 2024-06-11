@@ -1,0 +1,28 @@
+body {
+    height: 150vh;
+    background-image: url("https://plus.unsplash.com/premium_photo-1665673313512-9ea6c83b8c84?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-size: cover;
+}
+h1 {
+    color: azure;
+    position: absolute;
+    bottom: 10%;
+    text-align: center;
+    right: 0;
+    left: 0;
+}
+h1 + p{
+    color: azure;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    text-align: center;
+}
+img{
+    height: 5%;
+    position: absolute;
+    right: 0;
+}
